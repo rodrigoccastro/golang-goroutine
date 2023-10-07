@@ -1,3 +1,5 @@
+example with goroutine
+
 • instructions for running your code
     //for run testes
     go test 
